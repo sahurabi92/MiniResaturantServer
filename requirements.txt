@@ -1,0 +1,6 @@
+Flask==1.1.1
+flask-restplus==0.13.0
+Flask-SQLAlchemy==2.5.1
+Werkzeug==0.15.5
+mongoengine==0.22.1
+flask-mongoengine==1.0.0
